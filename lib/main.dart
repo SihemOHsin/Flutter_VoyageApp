@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
     '/home': (context) => HomePage(),
     '/inscription': (context) => InscriptionPage(),
     '/authentification': (context) => AuthentificationPage(),
-    '/gallerie': (context) => GalleriePage(),
+    '/gallerie': (context) => GalleryPage(),
     '/meteo': (context) => MeteoPage(),
     '/pays': (context) => PaysPage(),
     '/contact': (context) => ContactPage(),
