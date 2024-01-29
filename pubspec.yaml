@@ -29,6 +29,9 @@ environment:
 # versions available, run `flutter pub outdated`.
 dependencies:
   shared_preferences:
+  sqflite:
+  snippet_coder_utils:
+  path:
   http:
   intl:
   flutter:
@@ -73,6 +76,9 @@ flutter:
     - images/pays.png
     - images/rain.png
     - images/snow.png
+    - images/jour.png
+    - images/nuit.png
+    - images/priere.png
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
